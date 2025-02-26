@@ -1,0 +1,7 @@
+C:\Users\labsfiap\source\repos\Fiap.Operacoes\Fiap.Operacoes\bin\Debug\Fiap.Operacoes.exe.config
+C:\Users\labsfiap\source\repos\Fiap.Operacoes\Fiap.Operacoes\bin\Debug\Fiap.Operacoes.exe
+C:\Users\labsfiap\source\repos\Fiap.Operacoes\Fiap.Operacoes\bin\Debug\Fiap.Operacoes.pdb
+C:\Users\labsfiap\source\repos\Fiap.Operacoes\Fiap.Operacoes\obj\Debug\Fiap.Operacoes.csproj.AssemblyReference.cache
+C:\Users\labsfiap\source\repos\Fiap.Operacoes\Fiap.Operacoes\obj\Debug\Fiap.Operacoes.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\source\repos\Fiap.Operacoes\Fiap.Operacoes\obj\Debug\Fiap.Operacoes.exe
+C:\Users\labsfiap\source\repos\Fiap.Operacoes\Fiap.Operacoes\obj\Debug\Fiap.Operacoes.pdb
